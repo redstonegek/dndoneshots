@@ -4,17 +4,21 @@
     "type": "split",
     "children": [
       {
-        "id": "8263a745f9bbb35f",
+        "id": "4573e90acf68df1a",
         "type": "tabs",
         "children": [
           {
-            "id": "49fa6440d437b312",
+            "id": "48d41668f8d4e1c5",
             "type": "leaf",
             "state": {
-              "type": "graph",
-              "state": {},
-              "icon": "lucide-git-fork",
-              "title": "Graph view"
+              "type": "markdown",
+              "state": {
+                "file": "the adventures guild.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "the adventures guild"
             }
           }
         ]
@@ -157,13 +161,23 @@
               "icon": "lucide-list",
               "title": "Outline"
             }
+          },
+          {
+            "id": "0ed4f871ce3d5ebb",
+            "type": "leaf",
+            "state": {
+              "type": "git-view",
+              "state": {},
+              "icon": "git-pull-request",
+              "title": "Source Control"
+            }
           }
-        ]
+        ],
+        "currentTab": 5
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 300
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -177,8 +191,10 @@
       "bases:Create new base": false
     }
   },
-  "active": "30d2f7a214a490e7",
+  "active": "48d41668f8d4e1c5",
   "lastOpenFiles": [
+    "the adventures guild.md",
+    "Untitled.base",
     "Welcome.md"
   ]
 }
