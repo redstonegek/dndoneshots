@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "greg.md",
+                "file": "the city of ....md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "greg"
+              "title": "the city of ..."
             }
           }
         ]
@@ -193,8 +193,8 @@
   },
   "active": "2260c2d32247e233",
   "lastOpenFiles": [
-    "conflict-files-obsidian-git.md",
     "greg.md",
+    "conflict-files-obsidian-git.md",
     "the adventures guild.md",
     "the city of ....md",
     "Untitled.base",
