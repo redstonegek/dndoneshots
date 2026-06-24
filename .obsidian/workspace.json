@@ -11,14 +11,14 @@
             "id": "1f6e0590d33c59bf",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "split-diff-view",
               "state": {
-                "file": "the adventures guild.md",
-                "mode": "source",
-                "source": false
+                "aFile": ".obsidian/plugins/obsidian-git/data.json",
+                "bFile": ".obsidian/plugins/obsidian-git/data.json",
+                "aRef": ""
               },
-              "icon": "lucide-file",
-              "title": "the adventures guild"
+              "icon": "diff",
+              "title": "Diff: data.json  (Working Tree)"
             }
           }
         ]
@@ -193,8 +193,8 @@
   },
   "active": "1f6e0590d33c59bf",
   "lastOpenFiles": [
-    "Untitled.base",
     "the adventures guild.md",
+    "Untitled.base",
     "the city of ....md",
     "Welcome.md"
   ]
