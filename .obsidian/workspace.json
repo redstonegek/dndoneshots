@@ -11,10 +11,14 @@
             "id": "2260c2d32247e233",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {},
+              "type": "markdown",
+              "state": {
+                "file": "greg.md",
+                "mode": "source",
+                "source": false
+              },
               "icon": "lucide-file",
-              "title": "New tab"
+              "title": "greg"
             }
           }
         ]
@@ -187,7 +191,7 @@
       "bases:Create new base": false
     }
   },
-  "active": "0ed4f871ce3d5ebb",
+  "active": "2260c2d32247e233",
   "lastOpenFiles": [
     "conflict-files-obsidian-git.md",
     "greg.md",
