@@ -1,6 +1,6 @@
 {
-  "commitMessage": "vault backup: {{date}},\nedited {{numFiles}} files by {{hostname}}",
-  "autoCommitMessage": "vault backup: {{date}},\nedited {{numFiles}} files by {{hostname}}",
+  "commitMessage": "vault backup: {date}},\nedited {{numFiles}} files by {{hostname}}",
+  "autoCommitMessage": "vault backup: {date}},\nedited {{numFiles}} files by {{hostname}}",
   "commitMessageScript": "",
   "commitDateFormat": "YYYY-MM-DD HH:mm:ss",
   "autoSaveInterval": 5,
