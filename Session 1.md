@@ -1,1 +1,1 @@
-This session is based on the "A most potent brew" oneshot. ![[A_Most_Potent_Brew.pdf]]
+This session is based on the "A most potent brew" oneshot. 
