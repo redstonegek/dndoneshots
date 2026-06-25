@@ -11,12 +11,14 @@
             "id": "222987ee2f80c9f3",
             "type": "leaf",
             "state": {
-              "type": "pdf",
+              "type": "markdown",
               "state": {
-                "file": "External PDFs/A_Most_Potent_Brew.pdf"
+                "file": "Session 1.md",
+                "mode": "source",
+                "source": false
               },
-              "icon": "lucide-file-text",
-              "title": "A_Most_Potent_Brew"
+              "icon": "lucide-file",
+              "title": "Session 1"
             }
           }
         ]
@@ -169,8 +171,8 @@
             "state": {
               "type": "git-view",
               "state": {},
-              "icon": "lucide-ghost",
-              "title": "git-view"
+              "icon": "git-pull-request",
+              "title": "Source Control"
             }
           }
         ],
@@ -188,13 +190,17 @@
       "daily-notes:Open today's daily note": false,
       "templates:Insert template": false,
       "command-palette:Open command palette": false,
-      "bases:Create new base": false
+      "bases:Create new base": false,
+      "obsidian-git:Open Git source control": false,
+      "pdf-plus:PDF++: Toggle auto-copy": false,
+      "pdf-plus:PDF++: Toggle auto-focus": false,
+      "pdf-plus:PDF++: Toggle auto-paste": false
     }
   },
   "active": "222987ee2f80c9f3",
   "lastOpenFiles": [
-    "Session 1.md",
     "External PDFs/A_Most_Potent_Brew.pdf",
+    "Session 1.md",
     "the adventures guild.md",
     "greg.md",
     "External PDFs",
