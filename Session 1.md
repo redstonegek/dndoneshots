@@ -8,4 +8,4 @@ This session is based on the [[A_Most_Potent_Brew.pdf]] oneshot.
 - Lab with main enemy: Giant Inferno Spider
 - Storeroom with rewards
 - Return to [[the adventures guild]]
-![[Pasted image 20260625163424.png]]
+![[Pasted image 20260625163424.png]]![[Pasted image 20260625164536.png]]
