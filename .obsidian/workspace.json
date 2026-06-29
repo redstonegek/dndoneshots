@@ -4,17 +4,17 @@
     "type": "split",
     "children": [
       {
-        "id": "4f9ddb94a1e1a453",
+        "id": "5812c55a3d0cb8ca",
         "type": "tabs",
         "children": [
           {
-            "id": "2260c2d32247e233",
+            "id": "ca6e8a1c894aafa1",
             "type": "leaf",
             "state": {
-              "type": "graph",
+              "type": "empty",
               "state": {},
-              "icon": "lucide-git-fork",
-              "title": "Graph view"
+              "icon": "lucide-file",
+              "title": "New tab"
             }
           }
         ]
@@ -187,12 +187,18 @@
       "bases:Create new base": false
     }
   },
-  "active": "30d2f7a214a490e7",
+  "active": "ca6e8a1c894aafa1",
   "lastOpenFiles": [
+    "External_PDFs/A_Most_Potent_Brew.pdf",
+    "Session 1.md",
+    "conflict-files-obsidian-git.md",
+    "images/Pasted image 20260625164536.png",
+    "images/Pasted image 20260625163424.png",
+    "images",
+    "External_PDFs",
     "grannys pie",
     "the city of ....md",
     "greg.md",
-    "conflict-files-obsidian-git.md",
     "the adventures guild.md",
     "Untitled.base",
     "Welcome.md"
