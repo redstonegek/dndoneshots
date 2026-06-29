@@ -4,17 +4,21 @@
     "type": "split",
     "children": [
       {
-        "id": "5812c55a3d0cb8ca",
+        "id": "526223806cf72fcb",
         "type": "tabs",
         "children": [
           {
-            "id": "ca6e8a1c894aafa1",
+            "id": "3f10105db7d08ad2",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {},
+              "type": "markdown",
+              "state": {
+                "file": "grannys pie/1- entrance.md",
+                "mode": "source",
+                "source": false
+              },
               "icon": "lucide-file",
-              "title": "New tab"
+              "title": "1- entrance"
             }
           }
         ]
@@ -187,19 +191,30 @@
       "bases:Create new base": false
     }
   },
-  "active": "ca6e8a1c894aafa1",
+  "active": "3f10105db7d08ad2",
   "lastOpenFiles": [
+    "grannys pie/4- Shop.md",
+    "grannys pie/3- Waste Pile.md",
+    "grannys pie/2- Apple Orchard.md",
+    "grannys pie/1- entrance.md",
+    "External_PDFs/DRA21_GrammysCountryApplePie.pdf",
+    "grannys pie/9- Grammy’s Apartment.md",
+    "grannys pie/8- Bakery Floor.md",
+    "grannys pie/7- Loading Dock.md",
+    "grannys pie/6- Guard Room.md",
+    "grannys pie/5- Office.md",
+    "grannys pie/to the bakery.md",
     "External_PDFs/A_Most_Potent_Brew.pdf",
+    "greg.md",
+    "the adventures guild.md",
     "Session 1.md",
-    "conflict-files-obsidian-git.md",
-    "images/Pasted image 20260625164536.png",
     "images/Pasted image 20260625163424.png",
+    "images/Pasted image 20260625164536.png",
+    "conflict-files-obsidian-git.md",
     "images",
     "External_PDFs",
     "grannys pie",
     "the city of ....md",
-    "greg.md",
-    "the adventures guild.md",
     "Untitled.base",
     "Welcome.md"
   ]

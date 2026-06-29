@@ -1,0 +1,3 @@
+“A sliding wooden door opens into a room with bare stone floors and plain walls. An empty wagon stands abandoned in the room, gathering dust. You can see, within the bakery, packing and shipping pallets that stand ready to be loaded onto the wagon. As you watch, a patrol of two goblins walks by, oblivious.”
+
+If the party, on average, succeeds at a DC 13 Stealth check, the goblins continue on their patrol with no notice. If they do not, one of the goblins stops, sniffs the air, and declares that he smells something funny, and they come in to investigate.
