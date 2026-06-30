@@ -11,14 +11,12 @@
             "id": "58084923b7edfcba",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "pdf",
               "state": {
-                "file": "grannys pie/5- Office.md",
-                "mode": "source",
-                "source": false
+                "file": "External_PDFs/DRA21_GrammysCountryApplePie.pdf"
               },
-              "icon": "lucide-file",
-              "title": "5- Office"
+              "icon": "lucide-file-text",
+              "title": "DRA21_GrammysCountryApplePie"
             }
           }
         ]
@@ -193,6 +191,8 @@
   },
   "active": "58084923b7edfcba",
   "lastOpenFiles": [
+    "External_PDFs/A_Most_Potent_Brew.pdf",
+    "grannys pie/5- Office.md",
     "grannys pie/4- Shop.md",
     "grannys pie/1- entrance.md",
     "the city of ....md",
@@ -205,13 +205,11 @@
     "grannys pie/8- Bakery Floor.md",
     "grannys pie/6- Guard Room.md",
     "grannys pie/7- Loading Dock.md",
-    "grannys pie/5- Office.md",
     "grannys pie/3- Waste Pile.md",
     "grannys pie/2- Apple Orchard.md",
     "grannys pie",
     "Session 1.md",
     "External_PDFs/DRA21_GrammysCountryApplePie.pdf",
-    "External_PDFs/A_Most_Potent_Brew.pdf",
     "External_PDFs",
     "greg.md",
     "matilda guild npc.md",
