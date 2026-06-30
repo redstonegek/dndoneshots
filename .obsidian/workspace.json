@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "the city of ....md",
+                "file": "grannys pie/5- Office.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "the city of ..."
+              "title": "5- Office"
             }
           }
         ]
@@ -191,8 +191,11 @@
       "bases:Create new base": false
     }
   },
-  "active": "0ed4f871ce3d5ebb",
+  "active": "58084923b7edfcba",
   "lastOpenFiles": [
+    "grannys pie/4- Shop.md",
+    "grannys pie/1- entrance.md",
+    "the city of ....md",
     "images/Pasted image 20260625164536.png",
     "images/Pasted image 20260625163424.png",
     "images",
@@ -201,11 +204,9 @@
     "grannys pie/at the guild (start session 2).md",
     "grannys pie/8- Bakery Floor.md",
     "grannys pie/6- Guard Room.md",
-    "grannys pie/4- Shop.md",
     "grannys pie/7- Loading Dock.md",
     "grannys pie/5- Office.md",
     "grannys pie/3- Waste Pile.md",
-    "grannys pie/1- entrance.md",
     "grannys pie/2- Apple Orchard.md",
     "grannys pie",
     "Session 1.md",
@@ -214,7 +215,6 @@
     "External_PDFs",
     "greg.md",
     "matilda guild npc.md",
-    "the city of ....md",
     "the adventures guild.md",
     "Untitled.base",
     "Welcome.md"
