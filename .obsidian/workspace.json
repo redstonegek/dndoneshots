@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "grannys pie/1- entrance.md",
+                "file": "conflict-files-obsidian-git.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "1- entrance"
+              "title": "conflict-files-obsidian-git"
             }
           }
         ]
@@ -193,8 +193,9 @@
   },
   "active": "3f10105db7d08ad2",
   "lastOpenFiles": [
-    "grannys pie/4- Shop.md",
     "grannys pie/1- entrance.md",
+    "conflict-files-obsidian-git.md",
+    "grannys pie/4- Shop.md",
     "grannys pie/5- Office.md",
     "grannys pie/6- Guard Room.md",
     "grannys pie/at the guild (start session 2).md",
@@ -212,7 +213,6 @@
     "grannys pie/8- Bakery Floor.md",
     "grannys pie/7- Loading Dock.md",
     "the adventures guild.md",
-    "conflict-files-obsidian-git.md",
     "images",
     "External_PDFs",
     "grannys pie",

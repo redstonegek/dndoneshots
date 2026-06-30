@@ -5,3 +5,6 @@ The tree is an apple treant named [[Mac]], or Macintosh. He is grumpy and old, a
 
 Outside
 For every ten minutes the group spends walking around outside the bakery, roll a d6 to find out if they encounter a patrol group of 1d4 goblins. On a 6, the goblins see them first and try to run away. On a 1, the group sees the goblins before they are spotted, and they can decide what to do from there.
+
+leeds to [[2- Apple Orchard]] via the [[3- Waste Pile]]
+or the [[4- Shop]]
