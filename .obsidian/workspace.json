@@ -4,24 +4,21 @@
     "type": "split",
     "children": [
       {
-        "id": "526223806cf72fcb",
+        "id": "a17b059da391847e",
         "type": "tabs",
         "children": [
           {
-            "id": "3f10105db7d08ad2",
+            "id": "58084923b7edfcba",
             "type": "leaf",
             "state": {
-              "type": "canvas",
+              "type": "markdown",
               "state": {
-                "file": "grannys pie/Untitled.canvas",
-                "viewState": {
-                  "x": 0,
-                  "y": 0,
-                  "zoom": 0
-                }
+                "file": "the city of ....md",
+                "mode": "source",
+                "source": false
               },
-              "icon": "lucide-layout-dashboard",
-              "title": "Untitled"
+              "icon": "lucide-file",
+              "title": "the city of ..."
             }
           }
         ]
@@ -194,32 +191,31 @@
       "bases:Create new base": false
     }
   },
-  "active": "3f10105db7d08ad2",
+  "active": "0ed4f871ce3d5ebb",
   "lastOpenFiles": [
-    "grannys pie/at the guild (start session 2).md",
-    "grannys pie/Untitled.canvas",
-    "grannys pie/to the bakery.md",
-    "grannys pie/3- Waste Pile.md",
-    "grannys pie/1- entrance.md",
-    "External_PDFs/A_Most_Potent_Brew.pdf",
     "images/Pasted image 20260625164536.png",
     "images/Pasted image 20260625163424.png",
-    "greg.md",
-    "Session 1.md",
-    "grannys pie/2- Apple Orchard.md",
-    "grannys pie/4- Shop.md",
-    "External_PDFs/DRA21_GrammysCountryApplePie.pdf",
-    "grannys pie/9- Grammy’s Apartment.md",
-    "grannys pie/8- Bakery Floor.md",
-    "grannys pie/7- Loading Dock.md",
-    "grannys pie/6- Guard Room.md",
-    "grannys pie/5- Office.md",
-    "the adventures guild.md",
-    "conflict-files-obsidian-git.md",
     "images",
-    "External_PDFs",
+    "grannys pie/to the bakery.md",
+    "grannys pie/9- Grammy’s Apartment.md",
+    "grannys pie/at the guild (start session 2).md",
+    "grannys pie/8- Bakery Floor.md",
+    "grannys pie/6- Guard Room.md",
+    "grannys pie/4- Shop.md",
+    "grannys pie/7- Loading Dock.md",
+    "grannys pie/5- Office.md",
+    "grannys pie/3- Waste Pile.md",
+    "grannys pie/1- entrance.md",
+    "grannys pie/2- Apple Orchard.md",
     "grannys pie",
+    "Session 1.md",
+    "External_PDFs/DRA21_GrammysCountryApplePie.pdf",
+    "External_PDFs/A_Most_Potent_Brew.pdf",
+    "External_PDFs",
+    "greg.md",
+    "matilda guild npc.md",
     "the city of ....md",
+    "the adventures guild.md",
     "Untitled.base",
     "Welcome.md"
   ]
