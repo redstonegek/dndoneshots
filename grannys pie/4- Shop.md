@@ -1,3 +1,6 @@
 “The shop is a small front area of the bakery where the famous pies could be sold directly to hungry customers. A counter at the back of the room stands surrounded by shelves on every wall. It appears that while the shelves once held lovely packages of pies, they have long since been ransacked; paper boxes and bits of ribbon and twine litter the floor. Two small tables have been overturned in the center of the room. There is a door on either side of the room, as well as the large double doors that lead outside.”
 
 There are many signs of goblin infestation in the room that could be used to track the goblins living here. If the party searches the counter area, a DC 12 Perception check will find a locked cashbox. It will require a DC 14 Sleight of Hand check to pick the lock, or DC 16 Strength to simply smash it open. It contains 8 gp, 11 sp, and 21 cp
+
+
+leeds to [[1- entrance]], 
