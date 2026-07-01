@@ -23,4 +23,42 @@ This session is based on the [[A_Most_Potent_Brew.pdf]] oneshot.
 8 rats await in the cellar
 They wait to ambush the players, prevent surprise round with DC 10 perception
 They flee after 5 are killed
-![[Pasted image 20260628220623.png]]
+![[Pasted image 20260628220623.png]]## Mosaic Puzzle
+*Through the hole in the wall you can see a dusty stone*
+*corridor, its floor lying around a foot below that of the cellar*
+*where you stand.*
+*Over to the left you can see the start of a staircase buried in*
+*collapsed masonry, earth and rubble that block the way*
+*completely. To the right the passage heads around a corner,*
+*but on the wall you can just make out what appears to be*
+*writing in a clear gold script.*
+
+Dawn breaks with stirring **air**,
+As sun shines down on new day fair
+
+"Midday blaze bakes **earth** and grass,
+The farmer waits for heat to pass
+
+"Evening cool brings **water**, wine,
+Drink and laughter passing time
+
+"Night sees shining, roaring **fire**,
+as wood and coals burn on the pyre"
+
+Failure to stand on the correct areas results in a
+DC 12 Dex save, to halve 5 damage from a large blade.
+![[Pasted image 20260625163424.png]]
+
+## Well Room
+*In the center of the small room ahead of you is a large stone*
+*well, topped with a wooden handle and the rotten remnants of*
+*a heavily frayed rope that descends into the shaft.*
+*In the far right corner the ceiling has collapsed slightly, and*
+*a narrow shaft ofweak sunlight shines through a narrow hole.*
+*To the far left is a plain wooden table, crusted with dirt and*
+*dust and laden with old plates, buckets and other strange*
+*pieces of tableware.*
+
+IF there is time, three Giant Centipedes attack anyone who is not silent.
+
+![[Pasted image 20260628221740.png]]
