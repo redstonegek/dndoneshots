@@ -1,0 +1,3 @@
+“What was once an orderly row of compost and waste bins has long since been heaped up into a massive trash pile. It is overgrown with fungus and other decomposers taking advantage of the ready supply of food. It smells rancid, the odor being carried on the breeze.” 
+
+If anyone comes within 5 feet of the waste pile, a violet fungus slowly oozes out (moving at half speed) and must be either fought or avoided.

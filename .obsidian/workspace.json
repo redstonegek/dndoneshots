@@ -22,6 +22,20 @@
             }
           },
           {
+            "id": "269137fbc6121808",
+            "type": "leaf",
+            "state": {
+              "type": "split-diff-view",
+              "state": {
+                "aFile": ".obsidian/workspace.json",
+                "bFile": ".obsidian/workspace.json",
+                "aRef": ""
+              },
+              "icon": "diff",
+              "title": "Diff: workspace.json  (Working Tree)"
+            }
+          },
+          {
             "id": "e8b6df55ac18b287",
             "type": "leaf",
             "state": {
@@ -33,7 +47,8 @@
               "title": "A_Most_Potent_Brew"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -206,12 +221,31 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "222987ee2f80c9f3",
+  "active": "269137fbc6121808",
   "lastOpenFiles": [
+    "conflict-files-obsidian-git.md",
+    "Session 1.md",
+    "images/grannys pie house.jpg",
+    "grannys pie/to the bakery.md",
+    "grannys pie/at the guild (start session 2).md",
+    "grannys pie/9- Grammy’s Apartment.md",
+    "grannys pie/8- Bakery Floor.md",
+    "grannys pie/7- Loading Dock.md",
+    "grannys pie/6- Guard Room.md",
+    "grannys pie/5- Office.md",
+    "grannys pie/4- Shop.md",
+    "grannys pie/3- Waste Pile.md",
+    "grannys pie/2- Apple Orchard.md",
+    "grannys pie/1- entrance.md",
+    "grannys pie",
+    "External_PDFs/books/Player's Handbook.pdf",
+    "External_PDFs/books/Monster Manual.pdf",
+    "External_PDFs/books/Dungeon Master's Guide.pdf",
+    "External_PDFs/books",
+    "External_PDFs/DRA21_GrammysCountryApplePie.pdf",
     "Pasted image 20260628221740.png",
     "the adventures guild.md",
     "greg.md",
-    "Session 1.md",
     "Pasted image 20260628220623.png",
     "images/Pasted image 20260628220145.png",
     "images",
@@ -221,8 +255,6 @@
     "3141.pdf",
     "External PDFs/892902-A_Potent_Brew_Printer_Friendly.pdf",
     "the city of ....md",
-    "External_PDFs",
-    "Untitled.base",
     "Untitled.canvas",
     "matilda guild npc.md",
     "Welcome.md"
