@@ -22,20 +22,6 @@
             }
           },
           {
-            "id": "269137fbc6121808",
-            "type": "leaf",
-            "state": {
-              "type": "split-diff-view",
-              "state": {
-                "aFile": ".obsidian/workspace.json",
-                "bFile": ".obsidian/workspace.json",
-                "aRef": ""
-              },
-              "icon": "diff",
-              "title": "Diff: workspace.json  (Working Tree)"
-            }
-          },
-          {
             "id": "e8b6df55ac18b287",
             "type": "leaf",
             "state": {
@@ -47,8 +33,7 @@
               "title": "A_Most_Potent_Brew"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -221,7 +206,7 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "269137fbc6121808",
+  "active": "222987ee2f80c9f3",
   "lastOpenFiles": [
     "conflict-files-obsidian-git.md",
     "Session 1.md",
