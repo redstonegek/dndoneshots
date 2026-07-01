@@ -62,3 +62,36 @@ DC 12 Dex save, to halve 5 damage from a large blade.
 IF there is time, three Giant Centipedes attack anyone who is not silent.
 
 ![[Pasted image 20260628221740.png]]
+
+## The Lab
+*The door opens onto what might once have been a lab or
+workroom. To your left sits a mouldering desk and the
+shattered remnants of alchemical glassware, while
+the centre of the room is dominated by a set of tall
+bookcases arranged back-to-back.
+All around, however, are scorch marks and signs of
+countless small fires and the air is filled with the
+smell ofsmoke and burned meat.
+The wooden furniture is blackened and burned in
+places, while what may once have been a pile of
+books has been been reduced to ash. Singed traces of
+what may be webbing hang from the ceiling.
+As you enter you feel something crunch beneath
+your feet - glancing down, you realise that it’s the
+charred hindquarters of a Giant Rat.*
+
+
+![[Pasted image 20260625164536.png]]
+
+## Storeroom
+*The rear wall of this small room is lined with sturdy-looking
+wooden shelves. Clearly these were once laden with bottles
+and glass vials, but over the years many of these have been
+reduced to glittering shards ofglass on the floor.
+There’s a flicker of movement among the wreckage and you
+see a small black rat lapping up the last remnants of liquid left
+the shattered remains of a dark blue bottle.*
+
+2 potions of healing
+potion of invis
+potion of vitality
