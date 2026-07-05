@@ -3,3 +3,4 @@ the adventures guild is the guild that sends our players on adventures. the are 
 
 npc
 [[greg]] works at the guild as one of the quest senders
+ 
