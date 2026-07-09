@@ -26,7 +26,7 @@ This session is based on the [[A_Most_Potent_Brew.pdf]] oneshot.
 8 rats await in the cellar
 They wait to ambush the players, prevent surprise round with DC 10 perception
 They flee after 5 are killed
-![[Pasted image 20260628220623.png]]## Mosaic Puzzle
+![[Pasted image 20260628220623 1.png]]## Mosaic Puzzle
 *Through the hole in the wall you can see a dusty stone*
 *corridor, its floor lying around a foot below that of the cellar*
 *where you stand.*
@@ -65,7 +65,7 @@ DC 12 Dex save, to halve 5 damage from a large blade.
 
 IF there is time, three Giant Centipedes attack anyone who is not silent.
 
-![[Pasted image 20260628221740.png]]
+![[Pasted image 20260628221740 1.png]]
 
 ## The Lab
 
