@@ -11,10 +11,14 @@
             "id": "e22f46d30c4c5a43",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {},
+              "type": "markdown",
+              "state": {
+                "file": "conflict-files-obsidian-git.md",
+                "mode": "source",
+                "source": false
+              },
               "icon": "lucide-file",
-              "title": "New tab"
+              "title": "conflict-files-obsidian-git"
             }
           }
         ]
@@ -187,11 +191,11 @@
       "bases:Create new base": false
     }
   },
-  "active": "e22f46d30c4c5a43",
+  "active": "0ed4f871ce3d5ebb",
   "lastOpenFiles": [
+    "conflict-files-obsidian-git.md",
     "Pasted image 20260714152918.png",
     "External_PDFs/Horror_at_Havels_Cross_MAP_v1_1.pdf",
-    "conflict-files-obsidian-git.md",
     "Pasted image 20260714153144.png",
     "Pasted image 20260714153505.png",
     "WOLFS.md",
