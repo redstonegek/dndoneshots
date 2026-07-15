@@ -112,11 +112,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "External_PDFs/The wolves of wellington.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "Outgoing links"
+              "title": "Outgoing links from The wolves of wellington"
             }
           },
           {
@@ -173,7 +174,7 @@
             }
           }
         ],
-        "currentTab": 5
+        "currentTab": 3
       }
     ],
     "direction": "horizontal",
@@ -191,11 +192,12 @@
       "bases:Create new base": false
     }
   },
-  "active": "58084923b7edfcba",
+  "active": "484547482f37e028",
   "lastOpenFiles": [
+    "greg.md",
+    "External_PDFs/The wolves of wellington.md",
     "External_PDFs/HorroratHavelsCross_V1_1.pdf",
     "External_PDFs/A_Most_Potent_Brew.pdf",
-    "External_PDFs/The wolves of wellington.md",
     "External_PDFs/books/Dungeon Master's Guide.pdf",
     "External_PDFs/books/Player's Handbook.pdf",
     "External_PDFs/books/Monster Manual.pdf",
@@ -229,7 +231,6 @@
     "grannys pie/2- Apple Orchard.md",
     "grannys pie",
     "Session 1.md",
-    "greg.md",
     "matilda guild npc.md",
     "the adventures guild.md",
     "Welcome.md"
