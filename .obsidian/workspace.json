@@ -11,14 +11,12 @@
             "id": "58084923b7edfcba",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "pdf",
               "state": {
-                "file": "the city of ....md",
-                "mode": "source",
-                "source": false
+                "file": "External_PDFs/books/Monster Manual.pdf"
               },
-              "icon": "lucide-file",
-              "title": "the city of ..."
+              "icon": "lucide-file-text",
+              "title": "Monster Manual"
             }
           }
         ]
@@ -193,6 +191,7 @@
   },
   "active": "58084923b7edfcba",
   "lastOpenFiles": [
+    "the city of ....md",
     "images/Pasted image 20260709100613.png",
     "images/Pasted image 20260625163424.png",
     "External_PDFs/DRA21_GrammysCountryApplePie.pdf",
@@ -208,7 +207,6 @@
     "images/grannys pie house.jpg",
     "images/Pasted image 20260628221740.png",
     "images/Pasted image 20260628220623.png",
-    "images/Pasted image 20260628220145.png",
     "External_PDFs/books/Player's Handbook.pdf",
     "External_PDFs/books/Monster Manual.pdf",
     "External_PDFs/books/Dungeon Master's Guide.pdf",
@@ -217,7 +215,6 @@
     "grannys pie/5- Office.md",
     "grannys pie/4- Shop.md",
     "grannys pie/1- entrance.md",
-    "the city of ....md",
     "images",
     "grannys pie/to the bakery.md",
     "grannys pie/9- Grammy’s Apartment.md",
