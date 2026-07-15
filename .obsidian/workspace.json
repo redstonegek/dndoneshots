@@ -11,12 +11,14 @@
             "id": "58084923b7edfcba",
             "type": "leaf",
             "state": {
-              "type": "pdf",
+              "type": "markdown",
               "state": {
-                "file": "External_PDFs/A_Most_Potent_Brew.pdf"
+                "file": "External_PDFs/The wolves of wellington.md",
+                "mode": "source",
+                "source": false
               },
-              "icon": "lucide-file-text",
-              "title": "A_Most_Potent_Brew"
+              "icon": "lucide-file",
+              "title": "The wolves of wellington"
             }
           }
         ]
@@ -191,6 +193,9 @@
   },
   "active": "58084923b7edfcba",
   "lastOpenFiles": [
+    "External_PDFs/HorroratHavelsCross_V1_1.pdf",
+    "External_PDFs/A_Most_Potent_Brew.pdf",
+    "External_PDFs/The wolves of wellington.md",
     "External_PDFs/books/Dungeon Master's Guide.pdf",
     "External_PDFs/books/Player's Handbook.pdf",
     "External_PDFs/books/Monster Manual.pdf",
@@ -205,13 +210,11 @@
     "images/Pasted image 20260628220623 1.png",
     "Session 3 - Horror at Havels Cross.md",
     "Session 1 - A most potent Brew.md",
-    "External_PDFs/HorroratHavelsCross_V1_1.pdf",
     "External_PDFs/Horror_at_Havels_Cross_MAP_v1_1.pdf",
     "images/grannys pie house.jpg",
     "images/Pasted image 20260628221740.png",
     "images/Pasted image 20260628220623.png",
     "External_PDFs/books",
-    "External_PDFs/A_Most_Potent_Brew.pdf",
     "grannys pie/5- Office.md",
     "grannys pie/4- Shop.md",
     "grannys pie/1- entrance.md",
