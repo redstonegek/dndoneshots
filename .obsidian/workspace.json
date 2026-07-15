@@ -11,12 +11,14 @@
             "id": "58084923b7edfcba",
             "type": "leaf",
             "state": {
-              "type": "image",
+              "type": "markdown",
               "state": {
-                "file": "images/Pasted image 20260709100613.png"
+                "file": "the city of ....md",
+                "mode": "source",
+                "source": false
               },
-              "icon": "lucide-image",
-              "title": "Pasted image 20260709100613"
+              "icon": "lucide-file",
+              "title": "the city of ..."
             }
           }
         ]
@@ -191,11 +193,11 @@
   },
   "active": "58084923b7edfcba",
   "lastOpenFiles": [
+    "images/Pasted image 20260709100613.png",
     "images/Pasted image 20260625163424.png",
     "External_PDFs/DRA21_GrammysCountryApplePie.pdf",
     "images/Pasted image 20260709100747.png",
     "images/Pasted image 20260709100644.png",
-    "images/Pasted image 20260709100613.png",
     "images/Pasted image 20260709100545.png",
     "images/Pasted image 20260628221740 1.png",
     "images/Pasted image 20260628220623 1.png",
