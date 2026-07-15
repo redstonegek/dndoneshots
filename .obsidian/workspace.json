@@ -13,10 +13,10 @@
             "state": {
               "type": "pdf",
               "state": {
-                "file": "External_PDFs/books/Monster Manual.pdf"
+                "file": "External_PDFs/A_Most_Potent_Brew.pdf"
               },
               "icon": "lucide-file-text",
-              "title": "Monster Manual"
+              "title": "A_Most_Potent_Brew"
             }
           }
         ]
@@ -191,6 +191,9 @@
   },
   "active": "58084923b7edfcba",
   "lastOpenFiles": [
+    "External_PDFs/books/Dungeon Master's Guide.pdf",
+    "External_PDFs/books/Player's Handbook.pdf",
+    "External_PDFs/books/Monster Manual.pdf",
     "the city of ....md",
     "images/Pasted image 20260709100613.png",
     "images/Pasted image 20260625163424.png",
@@ -207,9 +210,6 @@
     "images/grannys pie house.jpg",
     "images/Pasted image 20260628221740.png",
     "images/Pasted image 20260628220623.png",
-    "External_PDFs/books/Player's Handbook.pdf",
-    "External_PDFs/books/Monster Manual.pdf",
-    "External_PDFs/books/Dungeon Master's Guide.pdf",
     "External_PDFs/books",
     "External_PDFs/A_Most_Potent_Brew.pdf",
     "grannys pie/5- Office.md",
