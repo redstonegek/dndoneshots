@@ -8,20 +8,33 @@
         "type": "tabs",
         "children": [
           {
-            "id": "58084923b7edfcba",
+            "id": "e07602f700c4eba1",
+            "type": "leaf",
+            "state": {
+              "type": "image",
+              "state": {
+                "file": "Pasted image 20260714152918.png"
+              },
+              "icon": "lucide-image",
+              "title": "Pasted image 20260714152918"
+            }
+          },
+          {
+            "id": "102938cec0071890",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "External_PDFs/The wolves of wellington.md",
+                "file": "conflict-files-obsidian-git.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "The wolves of wellington"
+              "title": "conflict-files-obsidian-git"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -112,12 +125,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "External_PDFs/The wolves of wellington.md",
+                "file": "conflict-files-obsidian-git.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "Outgoing links from The wolves of wellington"
+              "title": "Outgoing links from conflict-files-obsidian-git"
             }
           },
           {
@@ -174,7 +187,7 @@
             }
           }
         ],
-        "currentTab": 3
+        "currentTab": 5
       }
     ],
     "direction": "horizontal",
@@ -192,30 +205,32 @@
       "bases:Create new base": false
     }
   },
-  "active": "484547482f37e028",
+  "active": "102938cec0071890",
   "lastOpenFiles": [
-    "greg.md",
+    "Pasted image 20260714152918.png",
+    "conflict-files-obsidian-git.md",
+    "Pasted image 20260714153144.png",
+    "Pasted image 20260714153505.png",
+    "WOLFS.md",
+    "the city of ....md",
     "External_PDFs/The wolves of wellington.md",
+    "Pasted image 20260714152835.png",
+    "Pasted image 20260714152054.png",
+    "greg.md",
     "External_PDFs/HorroratHavelsCross_V1_1.pdf",
     "External_PDFs/A_Most_Potent_Brew.pdf",
     "External_PDFs/books/Dungeon Master's Guide.pdf",
     "External_PDFs/books/Player's Handbook.pdf",
     "External_PDFs/books/Monster Manual.pdf",
-    "the city of ....md",
     "images/Pasted image 20260709100613.png",
     "images/Pasted image 20260625163424.png",
     "External_PDFs/DRA21_GrammysCountryApplePie.pdf",
     "images/Pasted image 20260709100747.png",
     "images/Pasted image 20260709100644.png",
     "images/Pasted image 20260709100545.png",
-    "images/Pasted image 20260628221740 1.png",
-    "images/Pasted image 20260628220623 1.png",
     "Session 3 - Horror at Havels Cross.md",
     "Session 1 - A most potent Brew.md",
     "External_PDFs/Horror_at_Havels_Cross_MAP_v1_1.pdf",
-    "images/grannys pie house.jpg",
-    "images/Pasted image 20260628221740.png",
-    "images/Pasted image 20260628220623.png",
     "External_PDFs/books",
     "grannys pie/5- Office.md",
     "grannys pie/4- Shop.md",
