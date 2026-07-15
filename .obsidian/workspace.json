@@ -4,37 +4,20 @@
     "type": "split",
     "children": [
       {
-        "id": "a17b059da391847e",
+        "id": "09e3ea42a0d5eb7b",
         "type": "tabs",
         "children": [
           {
-            "id": "e07602f700c4eba1",
+            "id": "e22f46d30c4c5a43",
             "type": "leaf",
             "state": {
-              "type": "image",
-              "state": {
-                "file": "Pasted image 20260714152918.png"
-              },
-              "icon": "lucide-image",
-              "title": "Pasted image 20260714152918"
-            }
-          },
-          {
-            "id": "102938cec0071890",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "conflict-files-obsidian-git.md",
-                "mode": "source",
-                "source": false
-              },
+              "type": "empty",
+              "state": {},
               "icon": "lucide-file",
-              "title": "conflict-files-obsidian-git"
+              "title": "New tab"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -125,12 +108,11 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "conflict-files-obsidian-git.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "Outgoing links from conflict-files-obsidian-git"
+              "title": "Outgoing links"
             }
           },
           {
@@ -205,9 +187,10 @@
       "bases:Create new base": false
     }
   },
-  "active": "102938cec0071890",
+  "active": "e22f46d30c4c5a43",
   "lastOpenFiles": [
     "Pasted image 20260714152918.png",
+    "External_PDFs/Horror_at_Havels_Cross_MAP_v1_1.pdf",
     "conflict-files-obsidian-git.md",
     "Pasted image 20260714153144.png",
     "Pasted image 20260714153505.png",
@@ -230,7 +213,6 @@
     "images/Pasted image 20260709100545.png",
     "Session 3 - Horror at Havels Cross.md",
     "Session 1 - A most potent Brew.md",
-    "External_PDFs/Horror_at_Havels_Cross_MAP_v1_1.pdf",
     "External_PDFs/books",
     "grannys pie/5- Office.md",
     "grannys pie/4- Shop.md",
