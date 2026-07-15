@@ -11,12 +11,12 @@
             "id": "58084923b7edfcba",
             "type": "leaf",
             "state": {
-              "type": "pdf",
+              "type": "image",
               "state": {
-                "file": "External_PDFs/DRA21_GrammysCountryApplePie.pdf"
+                "file": "images/Pasted image 20260709100613.png"
               },
-              "icon": "lucide-file-text",
-              "title": "DRA21_GrammysCountryApplePie"
+              "icon": "lucide-image",
+              "title": "Pasted image 20260709100613"
             }
           }
         ]
@@ -191,6 +191,8 @@
   },
   "active": "58084923b7edfcba",
   "lastOpenFiles": [
+    "images/Pasted image 20260625163424.png",
+    "External_PDFs/DRA21_GrammysCountryApplePie.pdf",
     "images/Pasted image 20260709100747.png",
     "images/Pasted image 20260709100644.png",
     "images/Pasted image 20260709100613.png",
@@ -214,7 +216,6 @@
     "grannys pie/4- Shop.md",
     "grannys pie/1- entrance.md",
     "the city of ....md",
-    "images/Pasted image 20260625164536.png",
     "images",
     "grannys pie/to the bakery.md",
     "grannys pie/9- Grammy’s Apartment.md",
@@ -226,7 +227,6 @@
     "grannys pie/2- Apple Orchard.md",
     "grannys pie",
     "Session 1.md",
-    "External_PDFs/DRA21_GrammysCountryApplePie.pdf",
     "greg.md",
     "matilda guild npc.md",
     "the adventures guild.md",
